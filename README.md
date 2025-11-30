@@ -1,2 +1,2 @@
-# DET_MOD
+# DST_MOD
 饥荒联机版，mod
